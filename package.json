@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "autoprefixer": "10.4.5",
+    "react-hook-form": "^7.31.2"
+  }
+}
